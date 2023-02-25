@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shucayb-code
 - 👀 I’m interested in - coding, web development, machine learning, data science, software development, Game development 
-- 🌱 I’m currently learning - coding
+- 🌱 I’m currently learning - front-end,python🐍,cybersecurity,datascience
 
 
 <!---
